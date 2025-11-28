@@ -60,12 +60,7 @@ lib/
 
 ## Screenshots
 
-*(Placeholders for screenshots)*
-
 | Login | Home | Profile | Settings |
 |-------|------|---------|----------|
 | ...   | ...  | ...     | ...      |
 
-## Demo Video
-
-*(Placeholder for demo video)*
