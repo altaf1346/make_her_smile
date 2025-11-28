@@ -1,5 +1,4 @@
-# My Profile App
-
+# Make Her Smile
 A Flutter application designed to help users manage their relationship profile, settings, and daily interactions. Built with a clean, modern "Mint/Green" aesthetic and Clean Architecture.
 
 ## Features
